@@ -15,7 +15,7 @@
 .yc2{
     width: 100%;
     height: 200px;
-    background-image: url(../bai4/images/khoa-hoc-front-end.jpg);
+    background-image: url(./images/khoa-hoc-front-end.jpg);
     background-attachment:fixed;
 }
 .box{
